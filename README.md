@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 Data Scientist
-- 📚 Learning Angular
+- 🔭  Data Scientist
+- 📚  Learning Angular
