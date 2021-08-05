@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🔭  Data Scientist
-- 📚  Learning Angular
+- 📚  Learning React/Next.js
