@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 - 🔭  Data Scientist
-- 📚  Learning web development
+- 📚  Learning React & CSS (https://css-for-js.dev/)
