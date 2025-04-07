@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭  ML & Data Engineering @ NEWCRAFT
+- 🔭  Data Engineering @ OLVG
